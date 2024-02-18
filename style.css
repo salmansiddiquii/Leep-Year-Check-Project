@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(197, 241, 255);
+}
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70vh;
+    align-items: center;
+    gap: 10px;
+}
+
+h1 {
+    color:rgb(50, 192, 192) ;
+    font-family: "Great Vibes", cursive;
+}
+
+label {
+    color:rgb(50, 192, 192) ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#year {
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 1px 2px 1px rgb(22, 89, 100);
+    border: none;
+    background-color: rgb(156, 224, 233);
+}
+
+
+button {
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-shadow: 1px 2px 1px rgb(22, 89, 100);
+    border: none;
+    background-color: rgb(156, 224, 233);;
+}
+
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
